@@ -658,7 +658,7 @@
     "wpackagist-theme/twentythirteen": "^2.1",
     "wpackagist-theme/twentytwelve": "^2.2",
     "wpackagist-theme/vantage": "^1.5",
-    "wpackagist-theme/wp-bootstrap-starter": "^3.0",
+    "wpackagist-theme/wp-bootstrap-starter": "^3.3.3",
     "wpbakery/visual-composer": "^5.2",
     "wpdatatables": "^2.2",
     "wpmudev/google-analytics-async": "3.1.7.1",
